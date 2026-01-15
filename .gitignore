@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for GitHub)
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+*.csv
+*.xlsx
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
