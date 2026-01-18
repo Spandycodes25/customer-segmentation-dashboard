@@ -140,7 +140,7 @@ The dashboard will automatically open in your default web browser at `http://loc
 ## Data Setup
 
 **Download the dataset:**
-1. Go to [Online Retail II Dataset on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+1. Go to [Online Retail II Dataset on Kaggle](https://www.kaggle.com/code/ekrembayar/rfm-analysis-online-retail-ii/input?select=online_retail_II.xlsx)
 2. Download `online_retail_II.xlsx` (45.62 MB)
 3. Place in `data/raw/` folder
 
