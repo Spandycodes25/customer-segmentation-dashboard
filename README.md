@@ -137,6 +137,15 @@ streamlit run src/dashboard.py
 
 The dashboard will automatically open in your default web browser at `http://localhost:8501`.
 
+## Data Setup
+
+**Download the dataset:**
+1. Go to [Online Retail II Dataset on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+2. Download `online_retail_II.xlsx` (45.62 MB)
+3. Place in `data/raw/` folder
+
+The dataset contains over 1 million e-commerce transactions from a UK-based online retailer, spanning December 2009 through December 2011.
+
 ## Methodology
 
 **RFM Analysis Framework:**
